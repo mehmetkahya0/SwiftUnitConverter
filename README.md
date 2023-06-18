@@ -38,3 +38,5 @@ We welcome contributions through pull requests. Before making any significant ch
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+## Thanks
+I got the design idea from Seyfeddin Başsaraç's Youtube video. (https://www.youtube.com/watch?v=aYkvtyugDvw&list=PLq4I99QKpIbl02hl7UM3cj-ay1w2Z3Bq6&index=5)
