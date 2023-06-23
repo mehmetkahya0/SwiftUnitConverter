@@ -1,7 +1,6 @@
 # Unit Converter App (Miles to Kilometers) WIP
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-18 at 21 38 13](https://github.com/mehmetkahya0/SwiftUnitConverter/assets/84154488/2a88eed3-beed-46db-a403-7efb761e0631)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-18 at 21 38 21](https://github.com/mehmetkahya0/SwiftUnitConverter/assets/84154488/7b970fa0-8f84-41c2-8684-1e9203e12262)
-
+<img width="233" alt="Ekran Resmi 2023-06-23 21 49 04" src="https://github.com/mehmetkahya0/SwiftUnitConverter/assets/84154488/836c37c5-04b0-4728-b01d-e5540c04fd1a">
+<img width="239" alt="Ekran Resmi 2023-06-23 21 49 14" src="https://github.com/mehmetkahya0/SwiftUnitConverter/assets/84154488/8dad7c6f-5b24-4dd0-b2a1-c92c113c63c1">
 
 Unit Converter is an iOS application developed using SwiftUI. This app allows the user to convert miles to kilometers.
 
